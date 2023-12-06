@@ -1,0 +1,2 @@
+                                                                          CARGO
+eating a file on a laptop can be done using various methods based on the operating system you are using. For Windows, you can create a new file by right-clicking in the desired location, selecting "New," and then choosing the type of file you want to create (e.g., Text Document, Word Document, etc.). Alternatively, you can open a text editor or a specific application, such as Microsoft Word, and save a new file from there.
